@@ -1,4 +1,4 @@
-# cryptoAnalysis
+# CryptoAnalysis
 
 ### Prerequisite: 
  - Crypto currency OHLCV data in spark Parquet format
