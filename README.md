@@ -50,3 +50,8 @@
 	"Bearish Indicators": ["MACD"], 
 	"Neutral_indicators": ["MFI", "RSI"], 
 	"Time": "2020-10-31 23:00:00"}
+	
+
+### To Do 
+1. Add trading signal
+2. Create Price2vec 
